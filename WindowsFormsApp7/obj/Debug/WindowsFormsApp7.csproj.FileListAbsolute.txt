@@ -1,0 +1,56 @@
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Павел\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\Новая папка\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\491\Зубик\Новая папка\Зубик 491 ТРПО\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\User\Desktop\Хрень Валеры\Новая папка\лаба СОМ 10\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Egor\Desktop\Диплом_Савичаf\COM\Новая папка\COM\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
